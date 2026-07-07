@@ -4,17 +4,16 @@
     {
       "slug": "project",
       "name": "Project",
-      "mode": "group",
+      "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
-      "due": "2026-07-14T05:36:00Z",
+      "due": "2026-07-27T05:36:00Z",
       "due_meta": {
-        "input": "2026-07-14T13:36:00",
+        "input": "2026-07-27T13:36:00",
         "zone": "Asia/Singapore",
         "offset": "+08:00",
         "source": "auto-detected"
-      },
-      "max_group_size": 8
+      }
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "SoftwareEngineeringPractices",
+  "short_name": "softwareengineeringpractices",
+  "term": "2026S1",
+  "org": "nyp-limkc-classroom-projects",
+  "team": {
+    "id": 18356330,
+    "slug": "classroom50-softwareengineeringpractices"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18356331,
+      "slug": "classroom50-softwareengineeringpractices-instructor"
+    },
+    "ta": {
+      "id": 18356332,
+      "slug": "classroom50-softwareengineeringpractices-ta"
+    }
+  }
+}

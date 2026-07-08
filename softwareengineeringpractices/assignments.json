@@ -7,11 +7,6 @@
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
-      "template": {
-        "owner": "nyp-dime",
-        "repo": "webapi-assignment1",
-        "branch": "main"
-      },
       "due": "2026-07-27T05:36:00Z",
       "due_meta": {
         "input": "2026-07-27T13:36:00",

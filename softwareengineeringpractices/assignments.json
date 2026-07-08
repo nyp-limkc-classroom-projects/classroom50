@@ -1,20 +1,4 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": [
-    {
-      "slug": "project",
-      "name": "Project",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": true,
-      "description": "gfgh",
-      "due": "2026-07-27T05:36:00Z",
-      "due_meta": {
-        "input": "2026-07-27T13:36:00",
-        "zone": "Asia/Singapore",
-        "offset": "+08:00",
-        "source": "auto-detected"
-      }
-    }
-  ]
+  "assignments": []
 }
